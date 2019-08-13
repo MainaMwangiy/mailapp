@@ -1,2 +1,0 @@
-# mailapp
-Sending emails app
