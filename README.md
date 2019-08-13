@@ -1,0 +1,2 @@
+# mailapp
+Sending emails app
